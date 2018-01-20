@@ -4,4 +4,5 @@
 
 ## Features in this app :
 - Log in with Facebook
+- Sign in with Google
 - Coming Soon...

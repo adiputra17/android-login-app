@@ -4,4 +4,5 @@
     <string name="facebook_app_id">329788944185767</string>
     <string name="fb_login_protocol_scheme">fb329788944185767</string>
 
+    <string name="signed_in_fmt">SIGN IN</string>
 </resources>
