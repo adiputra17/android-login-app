@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\adiputra\\.android\\build-cache\\21d04698619ab2557dc3c9f24b2fe6e49e2f8455\\output\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

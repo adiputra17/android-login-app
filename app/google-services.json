@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160219621390",
+    "project_id": "defaolt-demo-app-edd35"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160219621390:android:08e63d6c8f46428a",
+        "android_client_info": {
+          "package_name": "adiputra.loginapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160219621390-b6e91tf68jpvj9a5lklsg3gdjnq9qm6n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "160219621390-ebgjtdi08mi9t2cf1rkil9r7ohb3e1qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "adiputra.loginapps",
+            "certificate_hash": "9ccb820f3c1b8df083dcf70c1144598cad96d3ba"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYBMJlr-SpMwLs0GVu_DFnURyngMV7gKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
