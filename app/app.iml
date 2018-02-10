@@ -139,5 +139,9 @@
     <orderEntry type="library" exported="" name="support-annotations-26.0.0-alpha1" level="project" />
     <orderEntry type="library" exported="" name="animated-vector-drawable-26.0.0-alpha1" level="project" />
     <orderEntry type="library" exported="" name="twitter-text-1.14.3" level="project" />
+    <orderEntry type="module" module-name="linkedin-sdk" exported="" />
+    <orderEntry type="library" exported="" name="volley" level="project" />
+    <orderEntry type="library" exported="" name="support-v4-21.0.3" level="project" />
+    <orderEntry type="library" exported="" name="support-annotations-21.0.3" level="project" />
   </component>
 </module>

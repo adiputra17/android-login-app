@@ -8,24 +8,24 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00056.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00011.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00011.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00039.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00039.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__ic_inline_share.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__ic_inline_share.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00039.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00039.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
@@ -48,12 +48,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00008.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00026.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00026.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
@@ -88,20 +88,16 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00027.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00027.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00043.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00043.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00027.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00027.png"
-    },
-    {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00040.png",
@@ -112,16 +108,20 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00010.png"
     },
     {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00024.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00024.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00013.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00013.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__ic_tweet_verified.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__ic_tweet_verified.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00013.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00013.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__ic_retweet_dark.png",
@@ -188,16 +188,16 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00001.png"
     },
     {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00046.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00046.png"
+    },
+    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00046.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00046.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__ic_play_pressed.png",
@@ -224,12 +224,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00058.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00058.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
@@ -264,12 +264,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\2f77ceeec26f7fa18e9e4897e67b559908cf72f6\\output\\res\\drawable-xhdpi-v4\\tw__composer_logo_white.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00036.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00036.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00033.png",
@@ -286,6 +286,10 @@
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\linkedin-sdk\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00003.png",
@@ -368,20 +372,20 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00016.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00016.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00018.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00018.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00016.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00016.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00029.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00029.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00021.png",
@@ -432,12 +436,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__ic_retweet_light.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00037.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00037.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00000.png",
@@ -496,12 +500,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable-xhdpi-v4\\tw__ic_video_replay.png"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00044.png",

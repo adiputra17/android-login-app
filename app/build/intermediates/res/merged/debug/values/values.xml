@@ -654,6 +654,8 @@
     <string name="app_name">LoginApps</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="client_id_linkedin">81ldy3pxhspgc7</string>
+    <string name="client_secret_linkedin">p6kG2FxH2qlv0u78</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
@@ -728,6 +730,10 @@
     <string name="tw__share_tweet">Share Tweet</string>
     <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
     <string name="tw__tweet_media">Tweet Media</string>
+    <string name="update_linkedin_app_cancel">Cancel</string>
+    <string name="update_linkedin_app_download">Download</string>
+    <string name="update_linkedin_app_message">To connect with LinkedIn you need to update LinkedIn app. Would you like to do it?</string>
+    <string name="update_linkedin_app_title">Update LinkedIn app</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

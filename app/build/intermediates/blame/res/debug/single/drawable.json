@@ -4,12 +4,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\21d04698619ab2557dc3c9f24b2fe6e49e2f8455\\output\\res\\drawable\\tw__login_btn_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\9786be84dd573bc9301ec503f4ea8228e6dd6708\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -20,12 +20,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\8045e1ec34e9a2e1384da7225a53444610497594\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\9786be84dd573bc9301ec503f4ea8228e6dd6708\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\8045e1ec34e9a2e1384da7225a53444610497594\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
@@ -36,12 +36,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__vine_badge.xml",
@@ -52,12 +52,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__gif_badge.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable\\tw__gif_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -84,16 +84,16 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__like_action.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable\\tw__like_action.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__player_overlay.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable\\tw__player_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__seekbar_thumb.xml",
@@ -172,12 +172,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
@@ -216,12 +216,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\8045e1ec34e9a2e1384da7225a53444610497594\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\d5cdf64f3fb23b041b8272bfe69b0548b96f03aa\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
@@ -244,12 +244,12 @@
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\16fa5133d2614cbe397a91ca5e92c7155367d3cb\\output\\res\\drawable\\tw__video_seekbar.xml"
     },
     {
-        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "C:\\Users\\adiputra\\.android\\build-cache\\8045e1ec34e9a2e1384da7225a53444610497594\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
-    },
-    {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
         "source": "C:\\Users\\adiputra\\.android\\build-cache\\9786be84dd573bc9301ec503f4ea8228e6dd6708\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\adiputra\\.android\\build-cache\\8045e1ec34e9a2e1384da7225a53444610497594\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
     },
     {
         "merged": "C:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__share_action.xml",

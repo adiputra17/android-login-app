@@ -53,6 +53,8 @@
         </activity>
 
         <!-- <activity android:name=".FacebookActivity"></activity> -->
+        <activity android:name="adiputra.loginapps.LinkedinActivity" />
+
         <provider
             android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
             android:authorities="adiputra.loginapps.google_measurement_service"

@@ -27,7 +27,6 @@
             android:name="com.facebook.FacebookActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/app_name" />
-
         <activity
             android:name=".FacebookActivity"
             android:exported="true">
@@ -41,7 +40,8 @@
             </intent-filter>
         </activity>
 
-        <!--<activity android:name=".FacebookActivity"></activity>-->
+        <!-- <activity android:name=".FacebookActivity"></activity> -->
+        <activity android:name=".LinkedinActivity"></activity>
     </application>
 
 </manifest>

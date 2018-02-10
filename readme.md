@@ -3,6 +3,6 @@
 > A app to learn how to login via some account
 
 ## Features in this app :
-- Log in with Facebook
+- Sign in with Facebook
 - Sign in with Google
-- Coming Soon...
+- Sign in with Linkedin

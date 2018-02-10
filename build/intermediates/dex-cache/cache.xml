@@ -3,57 +3,84 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\adiputra\.android\build-cache\4a7a1012ecde568e49b994d4784d1bd2dd891709\output\jars\classes.jar"
+        jar="C:\Users\adiputra\AndroidStudioProjects\LoginApps\linkedin-sdk\build\intermediates\bundles\default\libs\volley.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_5acfcec57a3e88b308a55862776274fe39606f11.jar" />
+        sha1="665cdcc34ce1b904988530a63132163e8fc1efba">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\volley_6cb5b78f11a4544fae501a0087dff4dc451195ee.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\adiputra\.android\build-cache\f2fa0d010c111c47c9705d6820a2c58c79361ce2\output\jars\classes.jar"
+        jar="C:\Users\adiputra\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
-        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_4cc3796d62bd489acf75b93345285d53fe4bef92.jar" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\gson-2.7_473ec0de924f0a59f0e5cff12dc2015bbb2c052a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\adiputra\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jar="C:\Users\adiputra\AndroidStudioProjects\LoginApps\linkedin-sdk\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_f46109cb03e5d34aff7bb7fa6ea7d17914163a1c.jar" />
+        sha1="acfff1637274c37ed13fb6aa1a8f0fed20e73562">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_dfef7e53e6c875a49e576fe4a38e0a19a7ad159d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\adiputra\.android\build-cache\9786be84dd573bc9301ec503f4ea8228e6dd6708\output\jars\classes.jar"
+        jar="C:\Users\adiputra\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.14.3\71218d7dd9435e8b43e5ccf117bec37cb78fa2eb\twitter-text-1.14.3.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
-        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_479ad4515d2d9a7c64e0d6f20cd810460a1554a6.jar" />
+        sha1="71218d7dd9435e8b43e5ccf117bec37cb78fa2eb">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\twitter-text-1.14.3_e272834d016597bac84345fc4e200a087948534a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\adiputra\.android\build-cache\5d015adf52cb5681017c9a0609438b4135a9bb74\output\jars\classes.jar"
+        jar="C:\Users\adiputra\.android\build-cache\16fa5133d2614cbe397a91ca5e92c7155367d3cb\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
-        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_3710b62b8c8a18f06d2fa30d598e0201362e5d57.jar" />
+        sha1="9df547a8c3f971d9e8ed570b5e36c44a9dc7632f">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_87752ffc506ccb2febb24eb2a281862d93452c3b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\adiputra\.android\build-cache\8045e1ec34e9a2e1384da7225a53444610497594\output\jars\classes.jar"
+        jar="C:\Users\adiputra\.android\build-cache\21d04698619ab2557dc3c9f24b2fe6e49e2f8455\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
-        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_84c3a5909bdff8d2bdc0e607e86c049f4fe41485.jar" />
+        sha1="213a75f93fa2961a4c69566ef3c9a365c70a8693">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_8b09725767d8db10ee83c72188aefb4f893f4091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adiputra\.android\build-cache\71500108fb4813c32ed063e3655af11f05f5d41c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_91a419039ce66c09fd787951d3ace57892fb71ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adiputra\.android\build-cache\7587ef0f9af02dd915a4f5f37bfcc861578c321e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93dbcb6695ede7eb2ac82aeb2e84eb0e8c8309d4">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_9a0c8617132ecf2e50937cb3b8cbaa6fec04a6fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adiputra\.android\build-cache\2f77ceeec26f7fa18e9e4897e67b559908cf72f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6525f06e39d6c9e88d5b86ce6fe0351bc674a80">
+        <dex dex="C:\Users\adiputra\AndroidStudioProjects\LoginApps\app\build\intermediates\pre-dexed\debug\classes_1827a59c6f21a87f3906c7975096b6897c5f0ca5.jar" />
     </item>
 
 </items>

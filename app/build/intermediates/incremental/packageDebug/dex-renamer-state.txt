@@ -1,4 +1,4 @@
-#Sat Jan 20 15:45:42 ICT 2018
+#Sat Feb 10 10:02:38 ICT 2018
 base.0=C\:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\adiputra\\AndroidStudioProjects\\LoginApps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

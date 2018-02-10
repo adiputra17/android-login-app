@@ -1,5 +1,6 @@
 package adiputra.loginapps;
 
+import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -38,6 +39,14 @@ import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.OptionalPendingResult;
 import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.common.api.Status;
+import com.linkedin.platform.APIHelper;
+import com.linkedin.platform.LISessionManager;
+import com.linkedin.platform.errors.LIApiError;
+import com.linkedin.platform.errors.LIAuthError;
+import com.linkedin.platform.listeners.ApiListener;
+import com.linkedin.platform.listeners.ApiResponse;
+import com.linkedin.platform.listeners.AuthListener;
+import com.linkedin.platform.utils.Scope;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -60,6 +69,14 @@ public class MainActivity extends AppCompatActivity implements
     private ProgressDialog mProgressDialog;
     private SignInButton btnSignIn;
     private Button btnSignOut, btnRevokeAccess;
+    //Linkedin
+    //replace package string with your package string
+    public static final String PACKAGE ="adiputra.loginapps";
+    private Button btnToLinkedin, btnLoginLinkedin;
+    private static final String host = "api.linkedin.com";
+    private static final String url = "https://" + host + "/v1/people/~:" +
+            "(email-address,formatted-name,phone-numbers,public-profile-url,picture-url,picture-urls::(original))";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -76,6 +93,15 @@ public class MainActivity extends AppCompatActivity implements
         btnSignIn = (SignInButton) findViewById(R.id.btn_sign_in);
         btnSignOut = (Button) findViewById(R.id.btn_sign_out);
         btnRevokeAccess = (Button) findViewById(R.id.btn_revoke_access);
+        btnToLinkedin = (Button) findViewById(R.id.btn_linkedin);
+
+        btnToLinkedin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, LinkedinActivity.class);
+                startActivity(i);
+            }
+        });
 
         //FACEBOOK
         boolean loggedIn = AccessToken.getCurrentAccessToken() == null;
@@ -188,18 +214,62 @@ public class MainActivity extends AppCompatActivity implements
             }
         });
 
+        //LINKEDIN
+        btnLoginLinkedin = (Button) findViewById(R.id.btn_login_linkedin);
+        btnLoginLinkedin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                LISessionManager.getInstance(getApplicationContext())
+                    .init(MainActivity.this, buildScope(), new AuthListener() {
+                        @Override
+                        public void onAuthSuccess() {
+                            Toast.makeText(getApplicationContext(), "success" +
+                                            LISessionManager.getInstance(getApplicationContext())
+                                                .getSession().getAccessToken().toString(),
+                                Toast.LENGTH_LONG).show();
+                            APIHelper apiHelper = APIHelper.getInstance(getApplicationContext());
+                            apiHelper.getRequest(MainActivity.this, url, new ApiListener() {
+                                @Override
+                                public void onApiSuccess(ApiResponse result) {
+                                    try {
+                                        tvEmail.setText(result.getResponseDataAsJson().get("emailAddress").toString());
+                                        tvUsername.setText(result.getResponseDataAsJson().get("formattedName").toString());
+                                    } catch (Exception e){
+                                        e.printStackTrace();
+                                    }
+                                }
+                                @Override
+                                public void onApiError(LIApiError error) {
+
+                                }
+                            });
+                        }
+
+                        @Override
+                        public void onAuthError(LIAuthError error) {
+                            Toast.makeText(getApplicationContext(), "failed " + error.toString(), Toast.LENGTH_LONG).show();
+                        }
+                    }, true);
+            }
+        });
+
     }
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         callbackManager.onActivityResult(requestCode, resultCode, data);
+        //linkedin
+        LISessionManager.getInstance(getApplicationContext()).onActivityResult(this, requestCode, resultCode, data);
         super.onActivityResult(requestCode, resultCode, data);
         // Result returned from launching the Intent from GoogleSignInApi.getSignInIntent(...);
         if (requestCode == RC_SIGN_IN) {
             GoogleSignInResult result = Auth.GoogleSignInApi.getSignInResultFromIntent(data);
             handleSignInResult(result);
         }
+    }
 
+    private static Scope buildScope() {
+        return Scope.build(Scope.R_BASICPROFILE, Scope.R_EMAILADDRESS);
     }
 
     private void handleSignInResult(GoogleSignInResult result) {
@@ -272,7 +342,6 @@ public class MainActivity extends AppCompatActivity implements
             mProgressDialog.setMessage("LOADING");
             mProgressDialog.setIndeterminate(true);
         }
-
         mProgressDialog.show();
     }
 
